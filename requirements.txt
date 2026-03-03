@@ -4,3 +4,8 @@ kalp-hastaligi-tahmin/
 ├── heart.csv                        # Veri seti (Kaggle’dan indirilebilir)
 ├── requirements.txt                 # Gerekli Python paketleri
 └── README.md                        # Proje açıklaması
+
+pandas
+numpy
+scikit-learn
+matplotlib
