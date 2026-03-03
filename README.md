@@ -1,1 +1,0 @@
-# Kalp-Hastal-Tahmin-Projesi-Python-Machine-Learning-
