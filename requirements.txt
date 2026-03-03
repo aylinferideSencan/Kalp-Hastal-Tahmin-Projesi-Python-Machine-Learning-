@@ -1,11 +1,1 @@
-kalp-hastaligi-tahmin/
-│
-├── heart_disease_prediction.ipynb   # Jupyter Notebook veya .py dosyası
-├── heart.csv                        # Veri seti (Kaggle’dan indirilebilir)
-├── requirements.txt                 # Gerekli Python paketleri
-└── README.md                        # Proje açıklaması
 
-pandas
-numpy
-scikit-learn
-matplotlib
